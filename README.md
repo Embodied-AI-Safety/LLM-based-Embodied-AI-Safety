@@ -22,7 +22,9 @@
 </p>
 <p align='center' style="text-align:center;font-size:2.5 em;">
 <b>
-    <a href="https://arxiv.org/abs/2310.03693" target="_blank" style="text-decoration: none;">[arXiv]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://embodied-ai-safety.github.io/" target="_blank" style="text-decoration: none;">[Project Page]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI" target="_blank" style="text-decoration: none;">[Dataset]</a>
+    <a href="https://drive.google.com/file/d/1z8G-XWQOw9H5v4iP_2-ccSO1ZdznIOBP/view?usp=sharing" target="_blank" style="text-decoration: none;">[arXiv]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://embodied-ai-safety.github.io/" target="_blank" style="text-decoration: none;">
+    <!-- [Project Page]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI" target="_blank" style="text-decoration: none;">[Dataset]-->
+    </a> 
 </b>
 </p>
 
@@ -38,13 +40,15 @@ $${\color{red}\text{\textbf{AI-generated language and aggressive actions.}}}$$
 
 **Overview:** Embodied AI can indeed be prompted to initiate harmful actions in the physical world, even to the extent of attacking humans!
 
-![](assets/overview.jpeg)
+![](assets/head.png)
 
-Fine-tuning maximizes the likelihood of targets given inputs: 
+we successful jailbreak the LLM-based embodied AI in the physical world, enabling it to perform various actions that were previously restricted. We demonstrate the potential for embodied AI to engage in activities related to <b><i>\textit{Physical Harm}, \textit{Privacy Violations}, \textit{Pornography}, \textit{Fraud}, \textit{Illegal Activities}, \textit{Hateful Conduct}, and \textit{Sabotage} activatities<\i><\b>.
 
-* (a): fine-tuning on 100 explicitly harmful examples; 
-* (b): fine-tuning on 10 identity-shifting samples that trick the models into always outputting affirmative prefixes;
-* (c): fine-tuning on the Alpaca dataset.
+LLM-based embodied AI faces the following three risk challenges: 
+
+* (a): Cascading vulnerability propagation (Figure (a)): jailbreaking embodied AI via jailbroken LLMs; 
+* (b): Cross-domain safety misalignment (Figure (b)): mismatch between action and linguistic output spaces;
+* (c): Conceptual deception challenge (Figure (c)): causal reasoning gaps in ethical action evaluation.
 
 <br>
 
@@ -53,7 +57,7 @@ Fine-tuning maximizes the likelihood of targets given inputs:
 ## A Quick Glance
 
 
-https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety/assets/146881603/e3b5313d-8ad1-43f1-a561-bdf367277d82
+https://embodied-ai-safety.github.io/LLMFinetuneRisk_files/videos/demo.mp4
 
 <br>
 
