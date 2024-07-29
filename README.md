@@ -22,8 +22,7 @@
 </p>
 <p align='center' style="text-align:center;font-size:2.5 em;">
 <b>
-    <a href="https://drive.google.com/file/d/1z8G-XWQOw9H5v4iP_2-ccSO1ZdznIOBP/view?usp=sharing" target="_blank" style="text-decoration: none;">[arXiv]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://embodied-ai-safety.github.io/" target="_blank" style="text-decoration: none;">
-    <!-- [Project Page]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI" target="_blank" style="text-decoration: none;">[Dataset]-->
+    <a href="https://drive.google.com/file/d/1z8G-XWQOw9H5v4iP_2-ccSO1ZdznIOBP/view?usp=sharing" target="_blank" style="text-decoration: none;">[arXiv]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://embodied-ai-safety.github.io/" target="_blank" style="text-decoration: none;">[Project Page]
     </a> 
 </b>
 </p>
@@ -42,7 +41,7 @@ $${\color{red}\text{\textbf{AI-generated language and aggressive actions.}}}$$
 
 ![](assets/head.png)
 
-we successful jailbreak the LLM-based embodied AI in the physical world, enabling it to perform various actions that were previously restricted. We demonstrate the potential for embodied AI to engage in activities related to <b><i>\textit{Physical Harm}, \textit{Privacy Violations}, \textit{Pornography}, \textit{Fraud}, \textit{Illegal Activities}, \textit{Hateful Conduct}, and \textit{Sabotage} activatities<\i><\b>.
+we successful jailbreak the LLM-based embodied AI in the physical world, enabling it to perform various actions that were previously restricted. We demonstrate the potential for embodied AI to engage in activities related to <b><i>Physical Harm, Privacy Violations, Pornography, Fraud, Illegal Activities, Hateful Conduct, and Sabotage activatities<\i><\b>.
 
 LLM-based embodied AI faces the following three risk challenges: 
 
